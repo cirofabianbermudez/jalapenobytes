@@ -2,6 +2,7 @@
 *.vcd
 *.vvp
 *.txt
+*.gtkw
 
 ## Obsidian
 .obsidian/

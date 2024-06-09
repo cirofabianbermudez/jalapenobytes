@@ -77,6 +77,8 @@ Cinco cualquier editor
 
 [Link in descripton](https://github.com/cirofabianbermudez/jalapenobytes/tree/main/scripts/01_verilog_simulation/codes)
 
+Note: 
+
 Todos los comandos los podras encontrar en la descripcion del video.
 
 ---
@@ -173,7 +175,7 @@ Finalmente para el editor, utiliza el editor con lo que te sientas más cómodo.
 
 ### Combinational Example
 
-Notes:
+Note:
 
 Veamos un ejemplo de un circuito combinacional sencillo
 
@@ -276,7 +278,7 @@ Y para abrir la forma de onda el comando `gtkwave`
 
 **Compilation**
 
-`iverilog lut_tb.v -o lut_tb.vvp`
+`iverilog -o lut_tb.vvp  lut_tb.v`
 
 **Flags**
 

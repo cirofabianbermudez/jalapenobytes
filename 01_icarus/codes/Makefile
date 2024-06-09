@@ -21,7 +21,7 @@ view:
 
 clean:
 	@echo "Clean ..."
-	rm *.vvp *.vcd *.txt
+	rm *.vvp *.vcd *.txt *.gtkw
 
 help:
 	@echo ""
