@@ -28,12 +28,6 @@ scoop --version
 scoop install iverilog
 ```
 
-2. Install GTKWave:
-
-```powershell
-scoop install gtkwave
-```
-
 3. Verify the installations:
 
 ```powershell
